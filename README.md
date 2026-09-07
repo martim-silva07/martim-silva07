@@ -24,14 +24,14 @@
 
 ### 📌 Featured Academic Projects
 
-* 🚀 **[SpaceShootGame](https://github.com/martim-silva07/zoozve):** Arcade-style game engine written in Java focusing on event-driven architecture, collision detection, and performance optimization. Using also a 2D isometric projection.
+* 🚀 **[Zoozve](https://github.com/martim-silva07/zoozve):** Arcade-style game engine written in Java focusing on event-driven architecture, collision detection, and performance optimization. Using also a 2D isometric projection.
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=martim-silva07&show_icons=true&theme=radical" alt="Martim's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=martim-silva07&show_icons=true&theme=dark" alt="Martim's GitHub Stats" />
 </p>
 
 ---
