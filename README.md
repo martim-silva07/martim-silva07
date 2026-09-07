@@ -31,7 +31,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=martim-silva07&show_icons=true&theme=dark" alt="Martim's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=martim-silva07&show_icons=true&theme=dark" alt="Martim's GitHub Stats" />
 </p>
 
 ---
