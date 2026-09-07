@@ -24,7 +24,7 @@
 
 ### 📌 Featured Academic Projects
 
-* 🚀 **[Zoozve](https://github.com/martim-silva07/zoozve):** Arcade-style game engine written in Java focusing on event-driven architecture, collision detection, and performance optimization. Using also a 2D isometric projection.
+* 🚀 **[Zoozve](https://github.com/martim-silva07/zoozve):** Arcade-style game engine written in Java focusing on event-driven architecture, collision detection, and performance optimization using a 2D isometric projection.
 
 ---
 
@@ -39,18 +39,3 @@
 ### 📫 Connect with Me
 
 * 🌐 **LinkedIn:** [linkedin.com/in/martim-da-silva-6704ba3b3](https://www.linkedin.com/in/martim-da-silva-6704ba3b3/)
-
-<!--
-**martim-silva07/martim-silva07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
