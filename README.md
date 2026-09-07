@@ -24,8 +24,17 @@
 
 ### 📌 Featured Academic Projects
 
+#### 🟢 1st Year (BSc)
+* 🃏 **[Flip7 / Vira7](https://github.com/martim-silva07/projecto-poo-ng-06-2024152785):** Final project for Object-Oriented Programming (POO) built in Java with JavaFX. Features local multiplayer (2-4 players), special card mechanics, unit testing suite, and sound/volume control.
 * 🚀 **[Zoozve](https://github.com/martim-silva07/zoozve):** Arcade-style game engine written in Java focusing on event-driven architecture, collision detection, and performance optimization using a 2D isometric projection.
+* ⛏️ **[miniMinecraft](https://github.com/martim-silva07/miniMinecraft):** First programming project exploring Java fundamentals and game loop logic by modeling a simplified voxel-style environment.
 
+#### 🟡 2nd Year (BSc)
+* *Projects loading... (Advanced Programming with Java coming up)*
+
+#### 🔴 3rd Year (BSc)
+* *Projects loading...*
+* 
 ---
 
 ### 📈 GitHub Stats
