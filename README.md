@@ -1,7 +1,6 @@
 # Hi, I'm Martim Silva 👋
 
 🎓 **BSc Computer Science Student** @ Setúbal Polytechnic University (UPS)  
-🎯 **Targeting:** MSc in Computer Science & AI @ Tsinghua / Peking University  
 💼 **Focus Areas:** Object-Oriented Programming & AI  
 
 ---
