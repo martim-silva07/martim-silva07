@@ -37,6 +37,13 @@
 * 
 ---
 
+
+
+$$Hackathons$$
+1- JunctionX Lisbon @IST:  (https://github.com/martim-silva07/QuantumTrace)
+
+
+
 ###  GitHub Stats
 
 <p align="center">
