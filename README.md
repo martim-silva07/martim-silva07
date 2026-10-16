@@ -30,7 +30,7 @@
 
 
 ####  2nd Year (BSc)
-* *Projects loading... (Advanced Programming with Java coming up)*
+* *Projects loading...*
 
 ####  3rd Year (BSc)
 * *Projects loading...*
