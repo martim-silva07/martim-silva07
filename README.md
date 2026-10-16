@@ -42,7 +42,7 @@
 $$Hackathons$$
 
 
-* 1- JunctionX Lisbon @IST:  (https://github.com/martim-silva07/QuantumTrace)
+* 1- JunctionX Lisbon 2026, @IST:  (https://github.com/martim-silva07/QuantumTrace)
 
 ---
 
