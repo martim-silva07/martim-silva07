@@ -33,8 +33,7 @@
 * *Projects loading...*
 
 ####  3rd Year (BSc)
-* *Projects loading...*
-* 
+* *Projects loading...* 
 ---
 
 
